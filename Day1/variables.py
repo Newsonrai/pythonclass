@@ -1,4 +1,5 @@
-# varainles ini python example
+# varainles in python example
+#Hello guys, i am learning python
 a=50
 b=60
 print("a =",a)
