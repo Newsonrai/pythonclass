@@ -1,4 +1,4 @@
-# varainles ini python example
+# varainles in python example dherai simple wala
 a=50
 b=60
 print("a =",a)
