@@ -1,4 +1,4 @@
-# varainbes in python example
+# variables in python example
 #Hello guys, i am learning python
 a=50
 b=60
